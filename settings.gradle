@@ -1,0 +1,1 @@
+include ':app', ':medsoc_library'
